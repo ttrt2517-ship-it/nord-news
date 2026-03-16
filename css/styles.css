@@ -119,7 +119,13 @@ body {
 
 .btn-primary {
     background: var(--primary);
-    color: white;
+    color: white !important;
+    border: 2px solid var(--primary);
+}
+
+.btn-primary:hover {
+    background: #2563eb;
+    border-color: #2563eb;
 }
 
 .btn-lg {
