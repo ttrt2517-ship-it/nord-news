@@ -13,7 +13,7 @@
 ### Крок 2: Підключи репозиторій
 
 ```bash
-cd C:\Users\^_^\.openclaw\workspace\norway-news-bot\website
+cd C:\Users\Roma\.openclaw\workspace\norway-news-bot\website
 
 git add .
 git commit -m "Initial commit"
